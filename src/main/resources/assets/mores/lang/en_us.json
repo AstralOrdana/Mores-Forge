@@ -1,0 +1,40 @@
+{
+  "item.mores.raw_diamond": "Raw Diamond",
+  "item.mores.raw_emerald": "Raw Emerald",
+
+  "block.mores.tuff_coal_ore": "Tuff Coal Ore",
+  "block.mores.tuff_iron_ore": "Tuff Iron Ore",
+  "block.mores.tuff_copper_ore": "Tuff Copper Ore",
+  "block.mores.tuff_gold_ore": "Tuff Gold Ore",
+  "block.mores.tuff_lapis_ore": "Tuff Lapis Lazuli Ore",
+  "block.mores.tuff_redstone_ore": "Tuff Redstone Ore",
+  "block.mores.tuff_diamond_ore": "Tuff Diamond Ore",
+  "block.mores.tuff_emerald_ore": "Tuff Emerald Ore",
+
+  "block.mores.granite_coal_ore": "Granite Coal Ore",
+  "block.mores.granite_iron_ore": "Granite Iron Ore",
+  "block.mores.granite_copper_ore": "Granite Copper Ore",
+  "block.mores.granite_gold_ore": "Granite Gold Ore",
+  "block.mores.granite_lapis_ore": "Granite Lapis Lazuli Ore",
+  "block.mores.granite_redstone_ore": "Granite Redstone Ore",
+  "block.mores.granite_diamond_ore": "Granite Diamond Ore",
+  "block.mores.granite_emerald_ore": "Granite Emerald Ore",
+
+  "block.mores.andesite_coal_ore": "Andesite Coal Ore",
+  "block.mores.andesite_iron_ore": "Andesite Iron Ore",
+  "block.mores.andesite_copper_ore": "Andesite Copper Ore",
+  "block.mores.andesite_gold_ore": "Andesite Gold Ore",
+  "block.mores.andesite_lapis_ore": "Andesite Lapis Lazuli Ore",
+  "block.mores.andesite_redstone_ore": "Andesite Redstone Ore",
+  "block.mores.andesite_diamond_ore": "Andesite Diamond Ore",
+  "block.mores.andesite_emerald_ore": "Andesite Emerald Ore",
+
+  "block.mores.diorite_coal_ore": "Diorite Coal Ore",
+  "block.mores.diorite_iron_ore": "Diorite Iron Ore",
+  "block.mores.diorite_copper_ore": "Diorite Copper Ore",
+  "block.mores.diorite_gold_ore": "Diorite Gold Ore",
+  "block.mores.diorite_lapis_ore": "Diorite Lapis Lazuli Ore",
+  "block.mores.diorite_redstone_ore": "Diorite Redstone Ore",
+  "block.mores.diorite_diamond_ore": "Diorite Diamond Ore",
+  "block.mores.diorite_emerald_ore": "Diorite Emerald Ore"
+}

@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "mores:andesite_copper_ore",
+    "mores:diorite_copper_ore",
+    "mores:granite_copper_ore",
+    "mores:tuff_copper_ore",
+    "minecraft:deepslate_copper_ore",
+    "minecraft:copper_ore"
+  ]
+}

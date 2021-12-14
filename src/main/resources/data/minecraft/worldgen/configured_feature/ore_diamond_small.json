@@ -1,0 +1,63 @@
+{
+  "config": {
+    "targets": [
+      {
+        "target": {
+          "predicate_type": "minecraft:block_match",
+          "block": "minecraft:granite"
+        },
+        "state": {
+          "Name": "mores:granite_diamond_ore"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "minecraft:block_match",
+          "block": "minecraft:andesite"
+        },
+        "state": {
+          "Name": "mores:andesite_diamond_ore"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "minecraft:block_match",
+          "block": "minecraft:diorite"
+        },
+        "state": {
+          "Name": "mores:diorite_diamond_ore"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "minecraft:block_match",
+          "block": "minecraft:tuff"
+        },
+        "state": {
+          "Name": "mores:tuff_diamond_ore"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "minecraft:block_match",
+          "block": "minecraft:stone"
+        },
+        "state": {
+          "Name": "minecraft:diamond_ore"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "minecraft:block_match",
+          "block": "minecraft:deepslate"
+        },
+        "state": {
+          "Name": "minecraft:deepslate_diamond_ore"
+        }
+      }
+    ],
+    "size": 4,
+    "discard_chance_on_air_exposure": 0.5
+  },
+  "type": "minecraft:ore"
+}

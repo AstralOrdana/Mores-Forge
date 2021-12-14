@@ -1,0 +1,9 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "mores:block/diorite_copper_ore"
+      }
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "mores:andesite_redstone_ore",
+    "mores:diorite_redstone_ore",
+    "mores:granite_redstone_ore",
+    "mores:tuff_redstone_ore",
+    "minecraft:deepslate_redstone_ore",
+    "minecraft:redstone_ore"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "mores:andesite_coal_ore",
+    "mores:diorite_coal_ore",
+    "mores:granite_coal_ore",
+    "mores:tuff_coal_ore",
+    "minecraft:deepslate_coal_ore",
+    "minecraft:coal_ore"
+  ]
+}
