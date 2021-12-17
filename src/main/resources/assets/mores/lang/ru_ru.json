@@ -1,0 +1,37 @@
+{
+  "block.mores.tuff_coal_ore": "Угольная руда в вулканическом туфе",
+  "block.mores.tuff_iron_ore": "Железная руда в вулканическом туфе",
+  "block.mores.tuff_copper_ore": "Медная руда в вулканическом туфе",
+  "block.mores.tuff_gold_ore": "Золотая руда в вулканическом туфе",
+  "block.mores.tuff_lapis_ore": "Лазуритовая руда в вулканическом туфе",
+  "block.mores.tuff_redstone_ore": "Редстоуновая руда в вулканическом туфе",
+  "block.mores.tuff_diamond_ore": "Алмазная руда в вулканическом туфе",
+  "block.mores.tuff_emerald_ore": "Изумрудная руда в вулканическом туфе",
+
+  "block.mores.granite_coal_ore": "Гранитная угольная руда",
+  "block.mores.granite_iron_ore": "Гранитная железная руда",
+  "block.mores.granite_copper_ore": "Гранитная медная руда",
+  "block.mores.granite_gold_ore": "Гранитная золотая руда",
+  "block.mores.granite_lapis_ore": "Гранитная лазуритовая руда",
+  "block.mores.granite_redstone_ore": "Гранитная редстоуновая руда",
+  "block.mores.granite_diamond_ore": "Гранитная алмазная руда",
+  "block.mores.granite_emerald_ore": "Гранитная изумрудная руда",
+
+  "block.mores.andesite_coal_ore": "Андезитовая угольная руда",
+  "block.mores.andesite_iron_ore": "Андезитовая железная руда",
+  "block.mores.andesite_copper_ore": "Андезитовая медная руда",
+  "block.mores.andesite_gold_ore": "Андезитовая золотая руда",
+  "block.mores.andesite_lapis_ore": "Андезитовая лазуритовая руда",
+  "block.mores.andesite_redstone_ore": "Андезитовая редстоуновая руда",
+  "block.mores.andesite_diamond_ore": "Андезитовая алмазная руда",
+  "block.mores.andesite_emerald_ore": "Андезитовая изумрудная руда",
+
+  "block.mores.diorite_coal_ore": "Диоритовая угольная руда",
+  "block.mores.diorite_iron_ore": "Диоритовая железная руда",
+  "block.mores.diorite_copper_ore": "Диоритовая медная руда",
+  "block.mores.diorite_gold_ore": "Диоритовая золотая руда",
+  "block.mores.diorite_lapis_ore": "Диоритовая лазуритовая руда",
+  "block.mores.diorite_redstone_ore": "Диоритовая редстоуновая руда",
+  "block.mores.diorite_diamond_ore": "Диоритовая алмазная руда",
+  "block.mores.diorite_emerald_ore": "Диоритовая изумрудная руда"
+}
