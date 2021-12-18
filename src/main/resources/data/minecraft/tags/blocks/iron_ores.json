@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "mores:granite_iron_ore",
+    "mores:diorite_iron_ore",
+    "mores:andesite_iron_ore",
+    "mores:tuff_iron_ore"
+  ]
+}

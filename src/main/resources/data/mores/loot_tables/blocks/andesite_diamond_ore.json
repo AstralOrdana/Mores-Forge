@@ -29,26 +29,6 @@
             },
             {
               "type": "minecraft:item",
-              "name": "raw_gemstones:raw_diamond",
-              "functions": [
-                {
-                  "function": "minecraft:apply_bonus",
-                  "enchantment": "minecraft:fortune",
-                  "formula": "minecraft:ore_drops"
-                },
-                {
-                  "function": "minecraft:explosion_decay"
-                }
-              ],
-              "conditions": [
-                {
-                  "condition": "forge:mod_loaded",
-                  "modid": "raw_gemstones"
-                }
-              ]
-            },
-            {
-              "type": "minecraft:item",
               "name": "minecraft:diamond",
               "functions": [
                 {

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "mores:granite_copper_ore",
+    "mores:diorite_copper_ore",
+    "mores:andesite_copper_ore",
+    "mores:tuff_copper_ore"
+  ]
+}
