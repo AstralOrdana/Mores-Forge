@@ -16,13 +16,6 @@ public class Mores {
 
     public static final Logger LOGGER = LogManager.getLogger();
 
-    public static void onCtor() {
-        IEventBus modEventBus = FMLJavaModLoadingContext.get()
-                .getModEventBus();
-
-        modEventBus.addListener(Mores::init);
-    }
-
     public static void init(final FMLCommonSetupEvent event) {
         ShippedResourcePacks.extractFiles("Emissive Mores");
         ShippedResourcePacks.extractFiles("Mores Unlit Redstone Ore");
@@ -30,8 +23,11 @@ public class Mores {
 
     public Mores() {
         var bus = FMLJavaModLoadingContext.get().getModEventBus();
+        IEventBus modEventBus = FMLJavaModLoadingContext.get()
+                .getModEventBus();
 
-        onCtor();
+        modEventBus.addListener(Mores::init);
+
         ModBlocks.BLOCKS.register(bus);
         ModItems.ITEMS.register(bus);
     }
