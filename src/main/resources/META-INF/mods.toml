@@ -19,9 +19,9 @@ modId="mores" #mandatory
 # The version number of the mod - there's a few well known ${} variables useable here or just hardcode it
 # ${file.jarVersion} will substitute the value of the Implementation-Version as read from the mod's JAR file metadata
 # see the associated build.gradle script for how to populate this completely automatically during a build
-version="1.0.0" #mandatory
+version="1.0.1" #mandatory
  # A display name for the mod
-displayName="Mores" #mandatory
+displayName="More Ore Stones" #mandatory
 # A URL to query for updates for this mod. See the JSON update specification https://mcforge.readthedocs.io/en/latest/gettingstarted/autoupdate/
 #updateJSONURL="https://change.me.example.invalid/updates.json" #optional
 # A URL for the "homepage" for this mod, displayed in the mod UI
@@ -41,9 +41,4 @@ vanilla overworld ores; Coal, Iron, Copper, Gold, Redstone, Lapis, Emerald, and 
 That makes 32 new ore blocks to spice up caves or be used as neat decorations.
 '''
 # A dependency - use the . to indicate dependency for a specific modid. Dependencies are optional.
-[[dependencies.mores]]
-    modId="raw_gemstones"
-    mandatory=false
-    versionRange="[1.0.0, 1.3.0)"
-    ordering="AFTER"
-    side="BOTH"
+

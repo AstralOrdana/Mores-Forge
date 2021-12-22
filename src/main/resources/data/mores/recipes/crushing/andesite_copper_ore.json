@@ -1,0 +1,27 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "mores:andesite_copper_ore"
+    }
+  ],
+  "results": [
+    {
+      "item": "create:crushed_copper_ore",
+      "count": 5
+    },
+    {
+      "item": "create:crushed_copper_ore",
+      "chance": 0.75
+    },
+    {
+      "item": "create:experience_nugget",
+      "chance": 0.75
+    },
+    {
+      "item": "minecraft:andesite",
+      "chance": 0.125
+    }
+  ],
+  "processingTime": 250
+}

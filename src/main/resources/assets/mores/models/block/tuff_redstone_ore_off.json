@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:block/cube_all",
-  "textures": {
-    "all": "mores:block/tuff_redstone_ore_off"
-  }
-}
