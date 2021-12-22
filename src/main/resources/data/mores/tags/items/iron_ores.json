@@ -6,6 +6,8 @@
     "mores:granite_iron_ore",
     "mores:tuff_iron_ore",
     "minecraft:deepslate_iron_ore",
-    "minecraft:iron_ore"
+    "minecraft:iron_ore",
+    "mores:jasper_iron_ore",
+    "mores:shale_iron_ore"
   ]
 }

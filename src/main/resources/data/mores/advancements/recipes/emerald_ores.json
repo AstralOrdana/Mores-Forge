@@ -14,7 +14,8 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "minecraft:emerald_ore_smelting"
+        "recipe": "minecraft:emerald_ore_smelting",
+        "recipe": "minecraft:emerald_ore_blasting"
       }
     }
   },

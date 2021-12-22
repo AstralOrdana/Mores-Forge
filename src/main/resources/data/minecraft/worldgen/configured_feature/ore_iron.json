@@ -54,6 +54,24 @@
         "state": {
           "Name": "minecraft:deepslate_iron_ore"
         }
+      },
+      {
+        "target": {
+          "predicate_type": "minecraft:block_match",
+          "block": "quark:jasper"
+        },
+        "state": {
+          "Name": "mores:jasper_iron_ore"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "minecraft:block_match",
+          "block": "mores:shale"
+        },
+        "state": {
+          "Name": "mores:shale_iron_ore"
+        }
       }
     ],
     "size": 9,

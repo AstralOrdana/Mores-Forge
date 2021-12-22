@@ -6,6 +6,8 @@
     "mores:granite_gold_ore",
     "mores:tuff_gold_ore",
     "minecraft:deepslate_gold_ore",
-    "minecraft:gold_ore"
+    "minecraft:gold_ore",
+    "mores:jasper_gold_ore",
+    "mores:shale_gold_ore"
   ]
 }

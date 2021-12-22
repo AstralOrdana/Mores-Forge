@@ -54,4 +54,30 @@ public final class ModBlocks {
     public static final RegistryObject<Block> DIORITE_DIAMOND_ORE = BLOCKS.register("diorite_diamond_ore", () -> new OreBlock(BlockBehaviour.Properties.copy(Blocks.DIAMOND_ORE)));
     public static final RegistryObject<Block> GRANITE_DIAMOND_ORE = BLOCKS.register("granite_diamond_ore", () -> new OreBlock(BlockBehaviour.Properties.copy(Blocks.DIAMOND_ORE)));
     public static final RegistryObject<Block> TUFF_DIAMOND_ORE = BLOCKS.register("tuff_diamond_ore", () -> new OreBlock(BlockBehaviour.Properties.copy(Blocks.DIAMOND_ORE).sound(SoundType.TUFF)));
+
+    //Quart Compat
+    public static final RegistryObject<Block> SHALE_COAL_ORE = BLOCKS.register("shale_coal_ore", () -> new OreBlock(BlockBehaviour.Properties.copy(Blocks.COAL_ORE)));
+    public static final RegistryObject<Block> JASPER_COAL_ORE = BLOCKS.register("jasper_coal_ore", () -> new OreBlock(BlockBehaviour.Properties.copy(Blocks.COAL_ORE)));
+
+    public static final RegistryObject<Block> SHALE_IRON_ORE = BLOCKS.register("shale_iron_ore", () -> new OreBlock(BlockBehaviour.Properties.copy(Blocks.IRON_ORE)));
+    public static final RegistryObject<Block> JASPER_IRON_ORE = BLOCKS.register("jasper_iron_ore", () -> new OreBlock(BlockBehaviour.Properties.copy(Blocks.IRON_ORE)));
+
+    public static final RegistryObject<Block> SHALE_COPPER_ORE = BLOCKS.register("shale_copper_ore", () -> new OreBlock(BlockBehaviour.Properties.copy(Blocks.COPPER_ORE)));
+    public static final RegistryObject<Block> JASPER_COPPER_ORE = BLOCKS.register("jasper_copper_ore", () -> new OreBlock(BlockBehaviour.Properties.copy(Blocks.COPPER_ORE)));
+
+    public static final RegistryObject<Block> SHALE_GOLD_ORE = BLOCKS.register("shale_gold_ore", () -> new OreBlock(BlockBehaviour.Properties.copy(Blocks.GOLD_ORE)));
+    public static final RegistryObject<Block> JASPER_GOLD_ORE = BLOCKS.register("jasper_gold_ore", () -> new OreBlock(BlockBehaviour.Properties.copy(Blocks.GOLD_ORE)));
+
+    public static final RegistryObject<Block> SHALE_LAPIS_ORE = BLOCKS.register("shale_lapis_ore", () -> new OreBlock(BlockBehaviour.Properties.copy(Blocks.LAPIS_ORE)));
+    public static final RegistryObject<Block> JASPER_LAPIS_ORE = BLOCKS.register("jasper_lapis_ore", () -> new OreBlock(BlockBehaviour.Properties.copy(Blocks.LAPIS_ORE)));
+
+    public static final RegistryObject<Block> SHALE_REDSTONE_ORE = BLOCKS.register("shale_redstone_ore", () -> new RedStoneOreBlock(BlockBehaviour.Properties.copy(Blocks.REDSTONE_ORE)));
+    public static final RegistryObject<Block> JASPER_REDSTONE_ORE = BLOCKS.register("jasper_redstone_ore", () -> new RedStoneOreBlock(BlockBehaviour.Properties.copy(Blocks.REDSTONE_ORE)));
+
+    public static final RegistryObject<Block> SHALE_DIAMOND_ORE = BLOCKS.register("shale_diamond_ore", () -> new OreBlock(BlockBehaviour.Properties.copy(Blocks.DIAMOND_ORE)));
+    public static final RegistryObject<Block> JASPER_DIAMOND_ORE = BLOCKS.register("jasper_diamond_ore", () -> new OreBlock(BlockBehaviour.Properties.copy(Blocks.DIAMOND_ORE)));
+
+    public static final RegistryObject<Block> SHALE_EMERALD_ORE = BLOCKS.register("shale_emerald_ore", () -> new OreBlock(BlockBehaviour.Properties.copy(Blocks.EMERALD_ORE)));
+    public static final RegistryObject<Block> JASPER_EMERALD_ORE = BLOCKS.register("jasper_emerald_ore", () -> new OreBlock(BlockBehaviour.Properties.copy(Blocks.EMERALD_ORE)));
+
 }

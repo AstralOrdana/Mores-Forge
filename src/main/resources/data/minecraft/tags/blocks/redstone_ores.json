@@ -4,6 +4,8 @@
     "mores:granite_redstone_ore",
     "mores:diorite_redstone_ore",
     "mores:andesite_redstone_ore",
-    "mores:tuff_redstone_ore"
+    "mores:tuff_redstone_ore",
+    "mores:jasper_redstone_ore",
+    "mores:shale_redstone_ore"
   ]
 }

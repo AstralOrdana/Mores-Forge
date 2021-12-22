@@ -6,6 +6,8 @@
     "mores:granite_diamond_ore",
     "mores:tuff_diamond_ore",
     "minecraft:deepslate_diamond_ore",
-    "minecraft:diamond_ore"
+    "minecraft:diamond_ore",
+    "mores:jasper_diamond_ore",
+    "mores:shale_diamond_ore"
   ]
 }

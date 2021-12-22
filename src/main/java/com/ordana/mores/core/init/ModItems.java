@@ -52,4 +52,30 @@ public final class ModItems {
     public static final RegistryObject<BlockItem> DIORITE_DIAMOND_ORE = ITEMS.register("diorite_diamond_ore", () -> new BlockItem(ModBlocks.DIORITE_DIAMOND_ORE.get(), new Item.Properties().tab(CreativeModeTab.TAB_BUILDING_BLOCKS)));
     public static final RegistryObject<BlockItem> GRANITE_DIAMOND_ORE = ITEMS.register("granite_diamond_ore", () -> new BlockItem(ModBlocks.GRANITE_DIAMOND_ORE.get(), new Item.Properties().tab(CreativeModeTab.TAB_BUILDING_BLOCKS)));
     public static final RegistryObject<BlockItem> TUFF_DIAMOND_ORE = ITEMS.register("tuff_diamond_ore", () -> new BlockItem(ModBlocks.TUFF_DIAMOND_ORE.get(), new Item.Properties().tab(CreativeModeTab.TAB_BUILDING_BLOCKS)));
+
+    //Quark Compat
+    public static final RegistryObject<BlockItem> SHALE_COAL_ORE = ITEMS.register("shale_coal_ore", () -> new BlockItem(ModBlocks.SHALE_COAL_ORE.get(), new Item.Properties().tab(CreativeModeTab.TAB_BUILDING_BLOCKS)));
+    public static final RegistryObject<BlockItem> JASPER_COAL_ORE = ITEMS.register("jasper_coal_ore", () -> new BlockItem(ModBlocks.JASPER_COAL_ORE.get(), new Item.Properties().tab(CreativeModeTab.TAB_BUILDING_BLOCKS)));
+
+    public static final RegistryObject<BlockItem> SHALE_IRON_ORE = ITEMS.register("shale_iron_ore", () -> new BlockItem(ModBlocks.SHALE_IRON_ORE.get(), new Item.Properties().tab(CreativeModeTab.TAB_BUILDING_BLOCKS)));
+    public static final RegistryObject<BlockItem> JASPER_IRON_ORE = ITEMS.register("jasper_iron_ore", () -> new BlockItem(ModBlocks.JASPER_IRON_ORE.get(), new Item.Properties().tab(CreativeModeTab.TAB_BUILDING_BLOCKS)));
+
+    public static final RegistryObject<BlockItem> SHALE_COPPER_ORE = ITEMS.register("shale_copper_ore", () -> new BlockItem(ModBlocks.SHALE_COPPER_ORE.get(), new Item.Properties().tab(CreativeModeTab.TAB_BUILDING_BLOCKS)));
+    public static final RegistryObject<BlockItem> JASPER_COPPER_ORE = ITEMS.register("jasper_copper_ore", () -> new BlockItem(ModBlocks.JASPER_COPPER_ORE.get(), new Item.Properties().tab(CreativeModeTab.TAB_BUILDING_BLOCKS)));
+
+    public static final RegistryObject<BlockItem> SHALE_GOLD_ORE = ITEMS.register("shale_gold_ore", () -> new BlockItem(ModBlocks.SHALE_GOLD_ORE.get(), new Item.Properties().tab(CreativeModeTab.TAB_BUILDING_BLOCKS)));
+    public static final RegistryObject<BlockItem> JASPER_GOLD_ORE = ITEMS.register("jasper_gold_ore", () -> new BlockItem(ModBlocks.JASPER_GOLD_ORE.get(), new Item.Properties().tab(CreativeModeTab.TAB_BUILDING_BLOCKS)));
+
+    public static final RegistryObject<BlockItem> SHALE_LAPIS_ORE = ITEMS.register("shale_lapis_ore", () -> new BlockItem(ModBlocks.SHALE_LAPIS_ORE.get(), new Item.Properties().tab(CreativeModeTab.TAB_BUILDING_BLOCKS)));
+    public static final RegistryObject<BlockItem> JASPER_LAPIS_ORE = ITEMS.register("jasper_lapis_ore", () -> new BlockItem(ModBlocks.JASPER_LAPIS_ORE.get(), new Item.Properties().tab(CreativeModeTab.TAB_BUILDING_BLOCKS)));
+
+    public static final RegistryObject<BlockItem> SHALE_REDSTONE_ORE = ITEMS.register("shale_redstone_ore", () -> new BlockItem(ModBlocks.SHALE_REDSTONE_ORE.get(), new Item.Properties().tab(CreativeModeTab.TAB_BUILDING_BLOCKS)));
+    public static final RegistryObject<BlockItem> JASPER_REDSTONE_ORE = ITEMS.register("jasper_redstone_ore", () -> new BlockItem(ModBlocks.JASPER_REDSTONE_ORE.get(), new Item.Properties().tab(CreativeModeTab.TAB_BUILDING_BLOCKS)));
+
+    public static final RegistryObject<BlockItem> SHALE_DIAMOND_ORE = ITEMS.register("shale_diamond_ore", () -> new BlockItem(ModBlocks.SHALE_DIAMOND_ORE.get(), new Item.Properties().tab(CreativeModeTab.TAB_BUILDING_BLOCKS)));
+    public static final RegistryObject<BlockItem> JASPER_DIAMOND_ORE = ITEMS.register("jasper_diamond_ore", () -> new BlockItem(ModBlocks.JASPER_DIAMOND_ORE.get(), new Item.Properties().tab(CreativeModeTab.TAB_BUILDING_BLOCKS)));
+
+    public static final RegistryObject<BlockItem> SHALE_EMERALD_ORE = ITEMS.register("shale_emerald_ore", () -> new BlockItem(ModBlocks.SHALE_EMERALD_ORE.get(), new Item.Properties().tab(CreativeModeTab.TAB_BUILDING_BLOCKS)));
+    public static final RegistryObject<BlockItem> JASPER_EMERALD_ORE = ITEMS.register("jasper_emerald_ore", () -> new BlockItem(ModBlocks.JASPER_EMERALD_ORE.get(), new Item.Properties().tab(CreativeModeTab.TAB_BUILDING_BLOCKS)));
+
 }

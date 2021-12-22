@@ -32,6 +32,23 @@
     "mores:andesite_diamond_ore",
     "mores:diorite_diamond_ore",
     "mores:granite_diamond_ore",
-    "mores:tuff_diamond_ore"
+    "mores:tuff_diamond_ore",
+
+    "mores:jasper_coal_ore",
+    "mores:shale_coal_ore",
+    "mores:jasper_iron_ore",
+    "mores:shale_iron_ore",
+    "mores:jasper_copper_ore",
+    "mores:shale_copper_ore",
+    "mores:jasper_gold_ore",
+    "mores:shale_gold_ore",
+    "mores:jasper_lapis_ore",
+    "mores:shale_lapis_ore",
+    "mores:jasper_redstone_ore",
+    "mores:shale_redstone_ore",
+    "mores:jasper_diamond_ore",
+    "mores:shale_diamond_ore",
+    "mores:jasper_emerald_ore",
+    "mores:shale_emerald_ore"
   ]
 }

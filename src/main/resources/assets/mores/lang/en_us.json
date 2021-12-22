@@ -33,5 +33,23 @@
   "block.mores.diorite_lapis_ore": "Diorite Lapis Lazuli Ore",
   "block.mores.diorite_redstone_ore": "Diorite Redstone Ore",
   "block.mores.diorite_diamond_ore": "Diorite Diamond Ore",
-  "block.mores.diorite_emerald_ore": "Diorite Emerald Ore"
+  "block.mores.diorite_emerald_ore": "Diorite Emerald Ore",
+
+  "block.mores.jasper_coal_ore": "Jasper Coal Ore",
+  "block.mores.jasper_iron_ore": "Jasper Iron Ore",
+  "block.mores.jasper_copper_ore": "Jasper Copper Ore",
+  "block.mores.jasper_gold_ore": "Jasper Gold Ore",
+  "block.mores.jasper_lapis_ore": "Jasper Lapis Lazuli Ore",
+  "block.mores.jasper_redstone_ore": "Jasper Redstone Ore",
+  "block.mores.jasper_diamond_ore": "Jasper Diamond Ore",
+  "block.mores.jasper_emerald_ore": "Jasper Emerald Ore",
+
+  "block.mores.shale_coal_ore": "Shale Coal Ore",
+  "block.mores.shale_iron_ore": "Shale Iron Ore",
+  "block.mores.shale_copper_ore": "Shale Copper Ore",
+  "block.mores.shale_gold_ore": "Shale Gold Ore",
+  "block.mores.shale_lapis_ore": "Shale Lapis Lazuli Ore",
+  "block.mores.shale_redstone_ore": "Shale Redstone Ore",
+  "block.mores.shale_diamond_ore": "Shale Diamond Ore",
+  "block.mores.shale_emerald_ore": "Shale Emerald Ore"
 }

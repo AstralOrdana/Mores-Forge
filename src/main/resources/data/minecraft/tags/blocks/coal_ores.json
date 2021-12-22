@@ -4,6 +4,8 @@
     "mores:granite_coal_ore",
     "mores:diorite_coal_ore",
     "mores:andesite_coal_ore",
-    "mores:tuff_coal_ore"
+    "mores:tuff_coal_ore",
+    "mores:jasper_coal_ore",
+    "mores:shale_coal_ore"
   ]
 }

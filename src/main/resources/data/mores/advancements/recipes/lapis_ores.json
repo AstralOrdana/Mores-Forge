@@ -14,7 +14,8 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "minecraft:lapis_ore_smelting"
+        "recipe": "minecraft:lapis_ore_smelting",
+        "recipe": "minecraft:lapis_ore_blasting"
       }
     }
   },

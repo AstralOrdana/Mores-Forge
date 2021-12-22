@@ -5,17 +5,25 @@
     "mores:diorite_iron_ore",
     "mores:andesite_iron_ore",
     "mores:tuff_iron_ore",
+    "mores:jasper_iron_ore",
+    "mores:shale_iron_ore",
     "mores:granite_copper_ore",
     "mores:diorite_copper_ore",
     "mores:andesite_copper_ore",
     "mores:tuff_copper_ore",
+    "mores:jasper_copper_ore",
+    "mores:shale_copper_ore",
     "mores:granite_lapis_ore",
     "mores:diorite_lapis_ore",
     "mores:andesite_lapis_ore",
     "mores:tuff_lapis_ore",
+    "mores:jasper_lapis_ore",
+    "mores:shale_lapis_ore",
     "mores:granite_coal_ore",
     "mores:diorite_coal_ore",
     "mores:andesite_coal_ore",
-    "mores:tuff_coal_ore"
+    "mores:tuff_coal_ore",
+    "mores:jasper_coal_ore",
+    "mores:shale_coal_ore"
   ]
 }

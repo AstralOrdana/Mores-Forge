@@ -6,6 +6,8 @@
     "mores:granite_copper_ore",
     "mores:tuff_copper_ore",
     "minecraft:deepslate_copper_ore",
-    "minecraft:copper_ore"
+    "minecraft:copper_ore",
+    "mores:jasper_copper_ore",
+    "mores:shale_copper_ore"
   ]
 }

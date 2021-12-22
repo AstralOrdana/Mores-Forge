@@ -14,7 +14,8 @@
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "minecraft:coal_ore_smelting"
+        "recipe": "minecraft:coal_ore_smelting",
+        "recipe": "minecraft:coal_ore_blasting"
       }
     }
   },

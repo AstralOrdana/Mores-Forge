@@ -54,6 +54,24 @@
         "state": {
           "Name": "minecraft:deepslate_coal_ore"
         }
+      },
+      {
+        "target": {
+          "predicate_type": "minecraft:block_match",
+          "block": "quark:jasper"
+        },
+        "state": {
+          "Name": "mores:jasper_coal_ore"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "minecraft:block_match",
+          "block": "quark:shale"
+        },
+        "state": {
+          "Name": "mores:shale_coal_ore"
+        }
       }
     ],
     "size": 17,

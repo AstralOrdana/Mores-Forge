@@ -4,6 +4,8 @@
     "mores:granite_gold_ore",
     "mores:diorite_gold_ore",
     "mores:andesite_gold_ore",
-    "mores:tuff_gold_ore"
+    "mores:tuff_gold_ore",
+    "mores:jasper_gold_ore",
+    "mores:shale_gold_ore"
   ]
 }

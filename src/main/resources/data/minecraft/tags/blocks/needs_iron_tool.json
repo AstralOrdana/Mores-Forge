@@ -5,17 +5,25 @@
     "mores:diorite_diamond_ore",
     "mores:andesite_diamond_ore",
     "mores:tuff_diamond_ore",
+    "mores:jasper_diamond_ore",
+    "mores:shale_diamond_ore",
     "mores:granite_emerald_ore",
     "mores:diorite_emerald_ore",
     "mores:andesite_emerald_ore",
     "mores:tuff_emerald_ore",
+    "mores:jasper_emerald_ore",
+    "mores:shale_emerald_ore",
     "mores:granite_gold_ore",
     "mores:diorite_gold_ore",
     "mores:andesite_gold_ore",
     "mores:tuff_gold_ore",
+    "mores:jasper_gold_ore",
+    "mores:shale_gold_ore",
     "mores:granite_redstone_ore",
     "mores:diorite_redstone_ore",
     "mores:andesite_redstone_ore",
-    "mores:tuff_redstone_ore"
+    "mores:tuff_redstone_ore",
+    "mores:jasper_redstone_ore",
+    "mores:shale_redstone_ore"
   ]
 }
