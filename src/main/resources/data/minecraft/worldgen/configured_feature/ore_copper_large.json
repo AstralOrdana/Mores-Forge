@@ -54,24 +54,6 @@
         "state": {
           "Name": "minecraft:deepslate_copper_ore"
         }
-      },
-      {
-        "target": {
-          "predicate_type": "minecraft:block_match",
-          "block": "quark:jasper"
-        },
-        "state": {
-          "Name": "mores:jasper_copper_ore"
-        }
-      },
-      {
-        "target": {
-          "predicate_type": "minecraft:block_match",
-          "block": "mores:shale"
-        },
-        "state": {
-          "Name": "mores:shale_copper_ore"
-        }
       }
     ],
     "size": 20,

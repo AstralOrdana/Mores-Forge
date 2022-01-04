@@ -54,25 +54,7 @@
         "state": {
           "Name": "minecraft:deepslate_gold_ore"
         }
-      },
-             {
-               "target": {
-                 "predicate_type": "minecraft:block_match",
-                 "block": "quark:jasper"
-               },
-               "state": {
-                 "Name": "mores:jasper_gold_ore"
-               }
-             },
-             {
-               "target": {
-                 "predicate_type": "minecraft:block_match",
-                 "block": "mores:shale"
-               },
-               "state": {
-                 "Name": "mores:shale_gold_ore"
-               }
-             }
+      }
     ],
     "size": 9,
     "discard_chance_on_air_exposure": 0.0
